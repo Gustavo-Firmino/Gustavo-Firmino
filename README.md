@@ -20,7 +20,7 @@
 - 👾 Nickname: **_guss_**
 - ⚡ Fun fact: 😭 ☕ I don't drink coffee, it's not good for me 😵‍💫  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Firmino&count_private=true&show_icons=true$&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Firmino&theme=merko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Firmino&count_private=true&show_icons=true$&theme=merko)](https://github.com/Gustavo-Firmino?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Firmino&theme=merko&langs_count=8&layout=compact)](https://github.com/Gustavo-Firmino?tab=repositories)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Firmino&repo=TCC&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Firmino&repo=TCC&theme=merko)](https://github.com/Gustavo-Firmino/TCC)
