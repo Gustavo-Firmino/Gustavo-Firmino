@@ -19,3 +19,5 @@
 - 📫 How to reach me: 📨 gustavo.firmino.oli@gmail.com 
 - 👾 Nickname: **_guss_**
 - ⚡ Fun fact: 😭 ☕ I don't drink coffee, it's not good for me 😵‍💫  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Firmino&count_private=true&show_icons=true$&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
