@@ -1,7 +1,6 @@
 ### Hello 🖖, I'm _guss_
 
 
-- 🔭 I’m currently working in dobes
 - 🧑‍🎓 I’m currently learning 📱 Kotlin  and ∞ C++ (Wiring) 
 - 🤔 I’m looking for help with ... nothing at the moment, thanks :heart:
 - 💬 Ask me about anything: 
