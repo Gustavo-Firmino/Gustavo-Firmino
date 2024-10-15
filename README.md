@@ -1,8 +1,8 @@
 ### Hello 🖖, I'm _guss_
 
 
-
-- 🧑‍🎓 I’m currently learning   ![delphi](https://github.com/user-attachments/assets/ad279ae0-f6b4-4245-bf3e-f76ea4a0fefd) -> Object Pascal
+- 🧑‍🎓 I’m currently learning                                                                    -> Object Pascal
+   ![delphi](https://github.com/user-attachments/assets/ad279ae0-f6b4-4245-bf3e-f76ea4a0fefd) 
 
 - 🤔 I’m looking for help with ... nothing at the moment, thanks :heart:
 - 💬 Ask me about anything: 
