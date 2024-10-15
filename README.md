@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de181846-3dfa-49f6-8d89-34057a05ceeb)### Hello 🖖, I'm _guss_
+### Hello 🖖, I'm _guss_
 
 
 - 🧑‍🎓 I’m currently learning Object Pascal 
