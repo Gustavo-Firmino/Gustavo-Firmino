@@ -1,7 +1,7 @@
-### Hello 🖖, I'm _guss_
+![image](https://github.com/user-attachments/assets/de181846-3dfa-49f6-8d89-34057a05ceeb)### Hello 🖖, I'm _guss_
 
 
-- 🧑‍🎓 I’m currently learning 📱 Kotlin, ∞ C++ (Wiring) and  🐍 Python
+- 🧑‍🎓 I’m currently learning Object Pascal 
 - 🤔 I’m looking for help with ... nothing at the moment, thanks :heart:
 - 💬 Ask me about anything: 
     ```
