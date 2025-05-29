@@ -17,7 +17,6 @@
     }
      ```
 
-- 📫 How to reach me: 📨 gustavo.firmino.oli@gmail.com 
 - 👾 Nickname: **_guss_**
 - ⚡ Fact: I like **ROCK** music 🤘🎸   
 
